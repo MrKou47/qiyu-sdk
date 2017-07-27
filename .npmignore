@@ -3,6 +3,7 @@ tsconfig.json
 webpack.config.js
 npm-debug.log
 example
+lib/qiyu-sdk.d.ts
 lib/qiyu-sdk
 .eslintrc.json
 tsconfig.json
