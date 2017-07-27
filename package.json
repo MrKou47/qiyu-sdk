@@ -1,6 +1,6 @@
 {
   "name": "qiyu-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "七鱼消息接口SDK",
   "main": "lib/index.js",
   "scripts": {
