@@ -1,0 +1,10 @@
+.vscode
+tsconfig.json
+webpack.config.js
+npm-debug.log
+example
+lib/qiyu-sdk
+.eslintrc.json
+tsconfig.json
+tslint.json
+.gitignore

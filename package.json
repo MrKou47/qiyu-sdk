@@ -1,0 +1,43 @@
+{
+  "name": "qiyu-sdk",
+  "version": "0.0.1",
+  "description": "七鱼消息接口SDK",
+  "main": "lib/index.js",
+  "scripts": {
+    "bundle": "webpack",
+    "test": "mocha -r ts-node/register test/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKou47/qiyu-sdk.git"
+  },
+  "keywords": [
+    "ysf",
+    "qy",
+    "qiyu"
+  ],
+  "author": "mrkou47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKou47/qiyu-sdk/issues"
+  },
+  "homepage": "https://github.com/MrKou47/qiyu-sdk#readme",
+  "devDependencies": {
+    "@types/chai": "^4.0.1",
+    "@types/mocha": "^2.2.41",
+    "@types/request": "^2.0.0",
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "ts-loader": "^2.3.0",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.5.0",
+    "tslint-loader": "^3.5.3",
+    "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "crypto": "0.0.3",
+    "md5": "^2.2.1",
+    "request": "^2.81.0",
+    "url": "^0.11.0"
+  }
+}
